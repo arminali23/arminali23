@@ -3,5 +3,4 @@ I am an AI / ML Engineer with a background in Computer Vision, Deep Learning, an
 
 - Currently working at [SOHMA.AI](https://www.sohma.xyz/)
 - Working on AI, ML, Computer Vision & visual perception systems
-- MSc in Artificial Intelligence for Media
 - Experienced in Python, C++, C# and Flutter
