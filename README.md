@@ -2,6 +2,6 @@
 I am an AI / ML Engineer with a background in Computer Vision, Deep Learning, and applied Machine Learning. Currently focused on building intelligent, real-world systems and AI-powered mobile apps. 
 
 - Currently working at [SOHMA.AI](https://www.sohma.xyz/)
-- Working on AI, ML, Computer Vision & visual perception systems
+- Working on DL, ML, Computer Vision & visual perception systems
 - Experienced in Python, C++, C# and Flutter
-- Take a look at my portfolio at https://arminali-portfolio.vercel.app
+- I am currently focused on Deep Learning and Generative Media
